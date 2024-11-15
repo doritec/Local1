@@ -76,7 +76,7 @@ export function LoginForm() {
               
               <div className="space-y-4 mt-6">
                 <a 
-                  href="https://localcoins.com/faq/verification"
+                  href="https://support.localcoinswap.com/hc/en-us/categories/360000496474-FAQ-s"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between w-full px-4 py-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
@@ -89,7 +89,7 @@ export function LoginForm() {
                 </a>
 
                 <a 
-                  href="https://localcoins.com/support"
+                  href="https://support.localcoinswap.com/hc/en-us/requests/new"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between w-full px-4 py-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
@@ -123,7 +123,7 @@ export function LoginForm() {
   return (
     <div className="flex-1">
       <h2 className="text-2xl font-semibold text-gray-900 mb-8">
-        Login to LocalCoins
+        Login to Localcoinswap
       </h2>
       
       {showError && (
